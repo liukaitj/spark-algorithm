@@ -21,7 +21,7 @@
     <scala.version>2.11.5</scala.version>
     <scala.compat.version>2.11</scala.compat.version>
   </properties>
-  
+        <!--
 	<repositories>
 		<repository>
 			<id>d1</id>
@@ -60,7 +60,7 @@
 			<url>http://192.168.12.124:8080/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
-
+        -->
   <dependencies>
     <dependency>
       <groupId>org.scala-lang</groupId>
